@@ -1,0 +1,10 @@
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Maschinendatenlogger_remote\bin\Debug\MachineDataReader.exe
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Maschinendatenlogger_remote\bin\Debug\MachineDataReader.pdb
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Maschinendatenlogger_remote\obj\x86\Debug\Maschinendatenlogger_Remote.csprojResolveAssemblyReference.cache
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Maschinendatenlogger_remote\obj\x86\Debug\MachineDataReader.Form1.resources
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Maschinendatenlogger_remote\obj\x86\Debug\MachineDataReader.Properties.Resources.resources
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Maschinendatenlogger_remote\obj\x86\Debug\Maschinendatenlogger_Remote.csproj.GenerateResource.Cache
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Maschinendatenlogger_remote\obj\x86\Debug\MachineDataReader.exe
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Maschinendatenlogger_remote\obj\x86\Debug\MachineDataReader.pdb
+Z:\10-Softwareentwicklung\5_C#\Siemens_Maschinendatenlogger_remote\obj\x86\Debug\MachineDataReader.exe
+Z:\10-Softwareentwicklung\5_C#\Siemens_Maschinendatenlogger_remote\obj\x86\Debug\MachineDataReader.pdb

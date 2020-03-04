@@ -1,0 +1,11 @@
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\bin\Debug\MachineDataReader.exe.config
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\bin\Debug\MachineDataReader.exe
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\bin\Debug\MachineDataReader.pdb
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\bin\Debug\NDde.dll
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\bin\Debug\NDde.xml
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\obj\x86\Debug\Maschinendatenlogger_HMI.csprojResolveAssemblyReference.cache
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\obj\x86\Debug\Maschinendatenlogger_HMI.Form1.resources
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\obj\x86\Debug\Maschinendatenlogger_HMI.Properties.Resources.resources
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\obj\x86\Debug\Maschinendatenlogger_HMI.csproj.GenerateResource.Cache
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\obj\x86\Debug\MachineDataReader.exe
+Z:\10-Softwareentwicklung\5_C#\Maschinendatenlogger_hmi\obj\x86\Debug\MachineDataReader.pdb

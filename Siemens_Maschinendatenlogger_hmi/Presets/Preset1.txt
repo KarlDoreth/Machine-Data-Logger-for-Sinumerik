@@ -1,0 +1,2 @@
+﻿AAA;NC-Zeile;0
+BBB;Prozesszeit;0
